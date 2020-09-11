@@ -1,12 +1,3 @@
- Alvi Ahmed               
-
-Alvi Ahmed
-
-*   [Home](../index.html)
-*   [Skills](../index.html#skills-page)
-*   [Logs](../proj_main.html)
-*   [Extra Curriculars](#timeline-experience)
-*   [Contact](#contact-info)
 
 **Cortex-M3 Media Center**
 ==========================
@@ -16,28 +7,6 @@ Alvi Ahmed
 
 **Type:** COE718 Lab
 --------------------
-
-*   [Overview](#overview)
-*   [Logs](#progress)
-*   [Resources and Links](#resources)
-
-Overview
---------
-
-![First slide](./images/pic_lcd7.jpg)
-
-![First slide](./images/pic_lcd.jpg)
-
-![Fourth Slide](./images/pic_lcd1.jpg)
-
-![Fifth Slide](./images/pic_lcd2.jpg)
-
-![Fifth Slide](./images/pic_lcd3.jpg)
-
-![Fifth Slide](./images/pic_lcd6.jpg)
-
-[Previous](#carouselExampleIndicators) [Next](#carouselExampleIndicators)
-
 ### Description
 
 The purpose of this project is to create a media center which has a photo gallery, music player and a game which can all be selected from a main menu selection screen.
@@ -45,11 +14,6 @@ The purpose of this project is to create a media center which has a photo galler
 The 4 main components of the media center are discussed in the logs below
 
 * * *
-
-Logs
-----
-
-(Earliest to Latest)
 
 ### Menu Selection [Go to Latest Log](#latest)
 
@@ -133,40 +97,7 @@ Screenshots of the game can be seen below
 
 **Figure 10.** Screenshot of game on the LCD
 
-### Conclusion [Go to Earliest Log](#earliest)
+### Conclusion 
 
 In conclusion this project was a success. A media center was created where a menu selection is provided for the user, where then the user can scroll and select 1 of 3 media options available. The user can scroll through the photo gallery, the user can then exit and stream some music from MP3 option as well as finally playing a game.
 
-* * *
-
-Resources and Links
--------------------
-
-### Applications Used in the Project
-
-*   MCB1700 Cortex-M3 Development Board
-*   Keil uVision
-
-  
-
-### Skills Used
-
-*   C
-*   Interrupts and Scheduling
-
-### Links
-
-*   **Github:** [https://github.com/AlviAhmed/CortexM3\_Media\_Center](https://github.com/AlviAhmed/CortexM3_Media_Center)
-
-* * *
-
-Get In Touch
-------------
-
-### If you have any questions feel free to shoot me an email!
-
-[CONTACT ME](../../contact.html)
-
-[LinkedIn](https://www.linkedin.com/in/alviahmed/) [Github](https://github.com/AlviAhmed) [Website](https://alviahmed.com/)
-
-© 2020 Alvi Ahmed.
