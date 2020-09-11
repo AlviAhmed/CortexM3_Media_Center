@@ -51,7 +51,7 @@ The images that were used are listed below
 
 *Figure 4.* Picture of ninja
 
-#+attr_latex: :width 50% :height 50%
+#+attr_latex: :width 300px :height 300px
 [[file:./images/pic_lcd.jpg]]
 
 *Figure 5.* Picture of lory in image gallery on LCD
