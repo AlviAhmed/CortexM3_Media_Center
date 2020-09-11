@@ -53,7 +53,10 @@ The images that were used are listed below
 
 #+attr_html: :width 100px
 #+attr_latex: :width 100px
-[[file:./images/pic_lcd.jpg]]
+[[file:./images/pic_lcd.jpg]] 
+
+ <img alt="" width="40%" src="./images/pic_lcd.jpg"/>
+
 
 *Figure 5.* Picture of lory in image gallery on LCD
 
