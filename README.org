@@ -1,0 +1,9 @@
+#+LaTeX_CLASS: mycustom 
+
+#+TITLE: Cortex-M3 Media Center
+#+AUTHOR: Alvi Ahmed
+
+*Status:* Completed 
+*Type:* COE718 Lab
+
+
