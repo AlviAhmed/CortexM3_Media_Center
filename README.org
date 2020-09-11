@@ -1,21 +1,19 @@
+#+LaTeX_CLASS: mycustom 
 
-**Cortex-M3 Media Center**
-==========================
+#+TITLE: Cortex-M3 Media Center
+#+AUTHOR: Alvi Ahmed
 
-**Status:** Completed
----------------------
+*Status:* Completed 
+*Type:* COE718 Lab
 
-**Type:** COE718 Lab
---------------------
-### Description
+* Description 
 
 The purpose of this project is to create a media center which has a photo gallery, music player and a game which can all be selected from a main menu selection screen.
 
 The 4 main components of the media center are discussed in the logs below
 
-* * *
 
-### Menu Selection [Go to Latest Log](#latest)
+* Menu Selection
 
 The menu selection is controlled via a joystick where then the user can select an option by pressing down on the joystick. The user will then be sent to their prefered option.
 
@@ -25,11 +23,11 @@ Once the joystick is pressed, the corresponding menu item is "selected" and the 
 
 An image of the menu can be seen below
 
-![](./images/pic_lcd7.jpg)
+[[file:./images/pic_lcd7.jpg]]
 
-**Figure 1.** Image of the menu
+*Figure 1.* Image of the menu
 
-### Image Gallery
+* Image Gallery
 
 The photo gallery is navigated using the joystick and contains 3 pictures.
 
@@ -41,31 +39,31 @@ Lastly, once the user is done with viewing the images, there must be a way for t
 
 The images that were used are listed below
 
-![](./images/lory.jpg)
+[[file:./images/lory.jpg]]
 
-**Figure 2.** Picture of rainbow lory
+*Figure 2.* Picture of rainbow lory
 
-![](./images/grug.png)
+[[file:./images/grug.png]]
 
-**Figure 3.** Image of cartoon
+*Figure 3.* Image of cartoon
 
-![](./images/hank.png)
+[[file:./images/hank.png]]
 
-**Figure 4.** Picture of ninja
+*Figure 4.* Picture of ninja
 
-![](./images/pic_lcd.jpg)
+[[file:./images/pic_lcd.jpg]]
 
-**Figure 5.** Picture of lory in image gallery on LCD
+*Figure 5.* Picture of lory in image gallery on LCD
 
-![](./images/pic_lcd1.jpg)
+[[file:./images/pic_lcd1.jpg]]
 
-**Figure 6.** Picture of cartoon in image gallery on LCD
+*Figure 6.* Picture of cartoon in image gallery on LCD
 
-![](./images/pic_lcd2.jpg)
+[[file:./images/pic_lcd2.jpg]]
 
-**Figure 7.** Picture of ninja in image gallery on LCD
+*Figure 7.* Picture of ninja in image gallery on LCD
 
-### Music Player
+* Music Player
 
 The music player option utilizes a lot of the hardware and software capabilities of the LCP1768 board including the potentiometers, speakers, USB as well as interrupts, ADC and DAC.
 
@@ -73,11 +71,11 @@ The goal of the music player is to ensure that once the user selects the music o
 
 The image below shows the music player menu, this occurs when the user selects the music player option.
 
-![](./images/pic_lcd3.jpg)
+[[file:./images/pic_lcd3.jpg]]
 
-**Figure 8.** Image of the music player menu on the LCD
+*Figure 8.* Image of the music player menu on the LCD
 
-### Game: Matrix Squash
+* Game: Matrix Squash
 
 The last option that the user can enjoy is the game. Matrix squash is a game in which you control a paddle and the goal is constantly bounce the ball of the paddle and avoid it getting past the paddle.
 
@@ -89,15 +87,15 @@ A ball must be created and the must be able to "bounce" of the walls or whenever
 
 Screenshots of the game can be seen below
 
-![](./images/impact_diagram.png)
+[[file:./images/impact_diagram.png]]
 
-**Figure 9.** Diagram used to determine direction and angle for the ball depending on where it collides
+*Figure 9.* Diagram used to determine direction and angle for the ball depending on where it collides
 
-![](./images/pic_lcd6.jpg)
+[[file:./images/pic_lcd6.jpg]]
 
-**Figure 10.** Screenshot of game on the LCD
+*Figure 10.* Screenshot of game on the LCD
 
-### Conclusion 
+* Conclusion 
 
 In conclusion this project was a success. A media center was created where a menu selection is provided for the user, where then the user can scroll and select 1 of 3 media options available. The user can scroll through the photo gallery, the user can then exit and stream some music from MP3 option as well as finally playing a game.
 
