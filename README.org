@@ -7,3 +7,75 @@
 *Type:* COE718 Lab
 
 
+* Objective  
+
+	The purpose of this project is to create a media center which has  a photo gallery, music
+	player and a game which can all be selected from a main menu
+	selection screen.
+
+* Menu Selection 
+
+  The menu selection is
+  controlled via a joystick where then the user can select an option by pressing down on the joystick.
+  The user will then be sent to their prefered option.
+							     
+                                 
+  In this implementation, as the user shifts the joystick down, the corresponding menu option is
+  highlighted.
+                             
+                             
+  Once the joystick is pressed, the corresponding menu item is "selected" and the corresponding function is executed (i.e gallery, music and game).
+                             
+                             
+
+* Image Gallery 
+
+  The photo gallery is navigated using the joystick
+  and contains 3 pictures.
+
+  The image gallery works by simply import images from a C file (which have been previously converted) and displays them on the 
+  LCD  on the development board.
+
+  The user can shift the joystick left and right through the pictures as well as continously scroll through them
+
+  Lastly, once the user is done with viewing the images, there
+  must be a way for the user to exit out of the gallery back on to the
+  main menu screen.  
+
+* Music Player
+  The music player
+  option utilizes a lot of the hardware and software capabilities of the LCP1768 board including the
+  potentiometers, speakers, USB as well as interrupts, ADC and DAC. 
+
+  The goal of the music player is to ensure that once the user selects the music option the audio of the
+  computer will be streamed through the board via a USB protocol. Once the user exits the option,
+  the USB audio stream will then have to be turned off.
+
+  The image below shows the music player menu, this occurs when the user selects the music player
+  option.
+
+* Game Matrix Squash  
+                     
+  The last option that the user can enjoy is the game. Matrix squash is a game in which you control a
+  paddle and the goal is constantly bounce the ball of the paddle and avoid it getting past the paddle.
+
+                         
+  For the game, a score board with the name of the game and the score
+  must be placed at the top of the screen.
+                         
+                         
+  Next paddle must be created and placed at the left of the screen,
+  this paddle will be controlled via the joystick, the paddle can only go up and down.
+                             
+  A ball must be created and the must be able to "bounce" of the walls or whenever it hits the players
+  paddle.  
+
+This will involve some sort of ball physics that the ball will have to
+obey. 
+
+* Conclusion 
+  In conclusion this project was a success. A media center was created where a menu selection is
+  provided for the user, where then the user can scroll and select 1 of 3 media options available. The
+  user can scroll through the photo gallery, the user can then exit and stream some music from MP3
+  option as well as finally playing a game.
+
