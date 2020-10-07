@@ -15,7 +15,7 @@ The 4 main components of the media center are discussed in the logs below
 
 * Menu Selection
 
-The menu selection is controlled via a joystick where then the user can select an option by pressing down on the joystick. The user will then be sent to their prefered option.
+The menu selection is controlled via a joystick where then the user can select an option by pressing down on the joystick. The user will then be sent to their preferred option.
 
 In this implementation, as the user shifts the joystick down, the corresponding menu option is highlighted.
 
@@ -33,7 +33,7 @@ The photo gallery is navigated using the joystick and contains 3 pictures.
 
 The image gallery works by simply import images from a C file (which have been previously converted) and displays them on the LCD on the development board.
 
-The user can shift the joystick left and right through the pictures as well as continously scroll through them
+The user can shift the joystick left and right through the pictures as well as continuously scroll through them
 
 Lastly, once the user is done with viewing the images, there must be a way for the user to exit out of the gallery back on to the main menu screen.
 
